@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAuxProc%2Fdocker-guacamole.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAuxProc%2Fdocker-guacamole?ref=badge_shield)
+
 Guacamole
 ====
 
@@ -50,3 +52,7 @@ Credits
 Apache Guacamole copyright The Apache Software Foundation, Licenced under the Apache License, Version 2.0.
 
 This docker image is built upon the baseimage made by phusion and forked from hall/guacamole, and further forked from Zuhkov/docker-containers and then aptalca/docker-containers
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAuxProc%2Fdocker-guacamole.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAuxProc%2Fdocker-guacamole?ref=badge_large)
